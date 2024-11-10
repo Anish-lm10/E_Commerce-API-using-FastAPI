@@ -1,0 +1,1 @@
+The E-Commerce API built with FastAPI enables efficient management of products, orders, and user accounts, supporting essential e-commerce functionalities like browsing, purchasing, and order tracking. It is designed for high performance and scalability, utilizing FastAPI's asynchronous capabilities for fast responses.
